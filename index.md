@@ -1,5 +1,6 @@
 ## Welcome to Test Pages
-
+title: Welcome to the Test homepage!
+description: Feel free to bookmark this to keep an eye on my projet updates
 You can use the [editor on GitHub](https://github.com/DanniArch/testing.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
